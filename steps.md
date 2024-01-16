@@ -173,7 +173,7 @@ Give an ID of ‘global-maven’ Click on next.  In  the next window, Find and
 
       \<username>admin\</username>
 
-      \<password>123\</password>
+      \<password>your-password\</password>
 
 \</server>
 
@@ -185,7 +185,7 @@ _Copy those 5 lines under the one you just edited and make it like this:_
 
       \<username>admin\</username>
 
-      \<password>123\</password>
+      \<password>your-password\</password>
 
 \</server>
 
